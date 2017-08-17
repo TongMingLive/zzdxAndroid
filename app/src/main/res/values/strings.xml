@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">郑州大学校园App</string>
+    <string name="title_home">主页</string>
+    <string name="title_introduce">课程表</string>
+    <string name="title_more">更多</string>
+    <drawable name="time_correct_normal">#247fed</drawable>
+    <drawable name="time_correct_pressed">#105fff</drawable>
+</resources>
